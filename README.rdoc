@@ -10,7 +10,7 @@ storing country information as country _code_ (eg. 'es'), not _name_ (eg. 'Spain
 
 Put this line into you Gemfile:
 
-    gem "magic-localized_country_select", "~> 0.2.0"
+    gem "magic-localized_country_select", "~> 0.2.0", :require => "localized_country_select"
 
 = Usage
 
